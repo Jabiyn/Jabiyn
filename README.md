@@ -1,0 +1,4 @@
+-  Hi, I’m Jabiyn I'm working on learning Python and other languages
+-  I’m interested in: content creation and programming
+-  I’m currently learning: Python
+-  How to reach me: right here I suppose
